@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h4 {
+  padding: 2rem;
+  padding-left: 10px;
+  font-size: 1.5rem;
+}
+.blog-content {
+  width: 60%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  margin: 9rem;
+  margin-bottom: 6rem;
+  font-size: xx-large;
+  color: rgb(7, 46, 87);
+}
+/* .image{
+    width: 550px;
+    height: 150px;
+    object-position: center;
+    margin: auto;
+  }
+  .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center; */
+h3 {
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-top: 9rem;
+  font-size: xx-large;
+}
+
+.socialIcon {
+  display: flex;
+  justify-content: center;
+}
+.socialIcon a {
+  text-decoration: none;
+  padding: 20px;
+
+  border-radius: 50%;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.socialIcon a i {
+  font-size: 2rem;
+  color: rgb(7, 73, 144);
+}
+footer {
+  margin-bottom: 50px;
+
+  border-radius: 25px;
+}
+.footerContainer {
+  height: 4cm;
+}
+
+.socialIcon {
+  margin: 0;
+}
+
+h4 {
+  font-size: 0.7cm;
+  padding: 20px;
+  padding-top: 20px;
+  color: rgb(7, 73, 144);
+  margin: 0;
+  text-align: center;
+}
+.footer-heaader {
+}
+
+.movieinfo{
+    text-align: center;
+    font-size: 1.3rem;
+    padding: .5rem;
+
+}
